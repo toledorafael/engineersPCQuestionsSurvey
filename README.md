@@ -12,4 +12,4 @@ Screenshots of the webpage participants accessed to respond survey.
 
 ### participantsResponses
 
-This folder includes the data recorded during the study and used in statistical tests. Files used for quantitative analysis follow the name convention *variable.csv*, in which *variable* describes the dependent variable (correctness, efficiency, or cognitive load) being recorded. The folder also includes two spreadsheets containing participants demographics information (`demographics.xlsx`) and participants' response to the experience statements and open-ended feedback questions (`participantsFeedback.xlsx`). 
+This spreadsheet includes the participants responses to the online survey. 
